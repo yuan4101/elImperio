@@ -1,6 +1,6 @@
 # elImperiodb
 El imperio space vehicle rental database
-** The tables have some inserts
+*The tables have some inserts
 - cliente.sql doesn't depend
 - vehiculo.sql doesn't depend
 - ligero.sql depends on vehicle.sql
