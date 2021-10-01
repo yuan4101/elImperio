@@ -1,5 +1,5 @@
-# elImperio
-El imperio space vehicle rental
+# elImperiodb
+El imperio space vehicle rental database
 * The tables have some inserts
 - cliente.sql doesn't depend
 - vehiculo.sql doesn't depend
